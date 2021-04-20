@@ -1,0 +1,13 @@
+@import './styles/palette';
+
+html, body {
+  height: 100%;
+  background-color: $gray-200;
+}
+
+body {
+  display: block;
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
